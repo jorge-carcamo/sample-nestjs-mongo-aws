@@ -1,6 +1,8 @@
+# sample-nestjs-mongo-aws
+Source code sample on NestJs, Typeorm and deployment on AWS with Serverless Framework. Use DocumentDB, Secrets, KMS, Api Gateway, VPC and Cognito.
+
 ## Architecture
 ![image](https://user-images.githubusercontent.com/88357997/166248014-b2cec599-324b-4cc6-945c-1e6c8f43ebd9.png)
-
 
 ## Stack
 - **Node**: 14.17.0
